@@ -1,0 +1,58 @@
+/**
+ * ZodiacPress Styles for RTL languages
+ */
+
+/* Form
+-------------------------------------------------------------- */
+.zp-form #hour,
+.zp-form #minute,
+.zp-form #month,
+.zp-form #day {
+	margin-left:.6em;
+
+}
+#zp-birthreport-form legend{
+	float:right;
+	margin: 5px 0 0 10px;
+}
+#zp-birthreport-form .zp-form-label {
+	float:right;
+}
+#zp-birthreport-form .zp-input-text-wrap {
+	padding-right: 10px;
+}
+.zp-unknown-time-field #unknown_time {
+	margin-left: 0.4em;
+}
+
+/* Ajax
+-------------------------------------------------------------- */
+#zp-offset-label{
+	float:right;
+	clear:right;
+}
+#zp_offset_geo {
+	float:right;	
+}
+
+/* Report
+-------------------------------------------------------------- */
+.zp-report-backlink {
+	text-align: left;
+}
+.zp-report-header,
+.zp-report-caption {
+	text-align: right;
+}
+.zp-zodiacal-dms {
+	padding-right:1em;
+}
+
+@media screen and ( max-width: 727px ) {
+	.zp-form #hour,
+	.zp-form #minute,
+	.zp-form #month,
+	.zp-form #day {
+		margin-left:.2em;
+	}
+}

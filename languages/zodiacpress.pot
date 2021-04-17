@@ -1,0 +1,2445 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ZodiacPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-07 20:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: zodiacpress"
+
+#. Attention RTL languages. 6 placeholders are zodiac sign degrees, zodiac sign glyph, minutes, minutes symbol, seconds, seconds symbol.
+#: includes/astro-functions.php:239
+#, php-format
+msgid "%1$s %2$s %3$s%4$s %5$s%6$s"
+msgstr ""
+
+#. Attention RTL languages. 5 placeholders are degrees, minutes, minutes symbol, seconds, seconds symbol.
+#: includes/time-functions.php:255
+#, php-format
+msgid "%1$s %2$s%3$s%4$s%5$s"
+msgstr ""
+
+#. 1: Time 2: Timezone offset in hours
+#: includes/class-zp-birth-report.php:86
+#, php-format
+msgid "%1$s <span class=\"zp-mobile-wrap\">(Zeitzone = UTC %2$s)</span>"
+msgstr ""
+
+#. 1: Planet 2: Number order
+#: includes/class-zp-birth-report.php:376
+#: includes/class-zp-birth-report.php:413
+#, php-format
+msgid "%1$s im %2$s Haus"
+msgstr ""
+
+#. 1: Planet 2: Zodiac sign
+#: includes/class-zp-birth-report.php:357
+#: includes/admin/settings/register-interpretations.php:143
+#, php-format
+msgid "%1$s in %2$s"
+msgstr ""
+
+#. 1: Planet 2: Order number
+#: includes/admin/settings/register-interpretations.php:172
+#, php-format
+msgid "%1$s im Haus von %2$s"
+msgstr ""
+
+#. 1: Birth date 2: Birth time
+#: includes/class-zp-birth-report.php:92
+#, php-format
+msgid "%1$s um %2$s"
+msgstr ""
+
+#. Attention RTL languages. 3 placeholders are degrees, cardinal direction, minutes for coordinates.
+#: includes/time-functions.php:211
+#, php-format
+msgid "%1$s%2$s%3$s'"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:156
+#, php-format
+msgid "%s Häuser"
+msgstr ""
+
+#: includes/time-functions.php:173
+msgid "0"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "00"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "01"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "02"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "03"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "04"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "05"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "06"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "07"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "08"
+msgstr ""
+
+#: includes/time-functions.php:154
+msgid "09"
+msgstr ""
+
+#: includes/time-functions.php:138
+msgid "1"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "10"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "100"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "101"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "102"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "103"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "104"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "105"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "106"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "107"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "108"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "109"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "11"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "110"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "111"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "112"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "113"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "114"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "115"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "116"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "117"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "118"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "119"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "12"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "120"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "121"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "122"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "123"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "124"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "125"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "126"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "127"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "128"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "129"
+msgstr ""
+
+#: includes/chart-drawing.php:10
+msgid "12:00 pm"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "13"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "130"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "131"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "132"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "133"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "134"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "135"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "136"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "137"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "138"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "139"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "14"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "140"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "141"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "142"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "143"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "144"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "145"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "146"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "147"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "148"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "149"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "15"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "150"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "151"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "152"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "153"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "154"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "155"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "156"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "157"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "158"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "159"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "16"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "160"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "161"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "162"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "163"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "164"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "165"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "166"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "167"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "168"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "169"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "17"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "170"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "171"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "172"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "173"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "174"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "175"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "176"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "177"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "178"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "179"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "18"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "180"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "19"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1900"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1901"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1902"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1903"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1904"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1905"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1906"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1907"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1908"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1909"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1910"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1911"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1912"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1913"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1914"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1915"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1916"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1917"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1918"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1919"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1920"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1921"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1922"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1923"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1924"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1925"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1926"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1927"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1928"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1929"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1930"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1931"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1932"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1933"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1934"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1935"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1936"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1937"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1938"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1939"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1940"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1941"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1942"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1943"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1944"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1945"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1946"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1947"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1948"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1949"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1950"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1951"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1952"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1953"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1954"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1955"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1956"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1957"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1958"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1959"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1960"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1961"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1962"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1963"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1964"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1965"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1966"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1967"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1968"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1969"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1970"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1971"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1972"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1973"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1974"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1975"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1976"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1977"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1978"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1979"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1980"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1981"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1982"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1983"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1984"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1985"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1986"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1987"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1988"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1989"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1990"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1991"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1992"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1993"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1994"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1995"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1996"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1997"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1998"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "1999"
+msgstr ""
+
+#: includes/time-functions.php:138
+msgid "2"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "20"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2000"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2001"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2002"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2003"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2004"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2005"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2006"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2007"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2008"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2009"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2010"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2011"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2012"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2013"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2014"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2015"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2016"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2017"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2018"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2019"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2020"
+msgstr ""
+
+#: includes/time-functions.php:126
+msgid "2021"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "21"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "22"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "23"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "24"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "25"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "26"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "27"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "28"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "29"
+msgstr ""
+
+#: includes/time-functions.php:138
+msgid "3"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "30"
+msgstr ""
+
+#: includes/time-functions.php:138 includes/time-functions.php:154
+msgid "31"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "32"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "33"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "34"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "35"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "36"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "37"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "38"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "39"
+msgstr ""
+
+#: includes/time-functions.php:138
+msgid "4"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "40"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "41"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "42"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "43"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "44"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "45"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "46"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "47"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "48"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "49"
+msgstr ""
+
+#: includes/time-functions.php:138
+msgid "5"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "50"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "51"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "52"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "53"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "54"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "55"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "56"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "57"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "58"
+msgstr ""
+
+#: includes/time-functions.php:154 includes/time-functions.php:169
+msgid "59"
+msgstr ""
+
+#: includes/time-functions.php:138
+msgid "6"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "60"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "61"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "62"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "63"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "64"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "65"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "66"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "67"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "68"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "69"
+msgstr ""
+
+#: includes/time-functions.php:138
+msgid "7"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "70"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "71"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "72"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "73"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "74"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "75"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "76"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "77"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "78"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "79"
+msgstr ""
+
+#: includes/time-functions.php:138
+msgid "8"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "80"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "81"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "82"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "83"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "84"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "85"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "86"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "87"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "88"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "89"
+msgstr ""
+
+#: includes/time-functions.php:138
+msgid "9"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "90"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "91"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "92"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "93"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "94"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "95"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "96"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "97"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "98"
+msgstr ""
+
+#: includes/time-functions.php:169
+msgid "99"
+msgstr ""
+
+#: includes/form/template.php:122
+msgid ""
+"<strong>*HINWEIS:</strong> Wenn die Geburtszeit unbekannt ist, enthält der "
+"Bericht weder Positionen oder Aspekte für den Mond, den Aszendenten, den "
+"Mittelhimmel, den Scheitelpunkt oder einen Teil des Glücks noch "
+"Hauspositionen für Planeten."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:140
+msgid "Abschluss des Geburtsberichts"
+msgstr ""
+
+#: includes/misc-functions.php:18
+msgid "Achten"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:212
+msgid ""
+"Aktiviere dieses Kontrollkästchen, wenn z.B. beim Löschen des Plugins alle "
+"Daten (EINSCHLIESSLICH INTERPRETATIONSTEXT) vollständig entfernen soll."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:82
+msgid "Aktiviere Planeten (und Punkte) in Häusern"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:74
+msgid "Aktiviere Planeten (und Punkte) in Zeichen"
+msgstr ""
+
+#: includes/astro-functions.php:479
+msgid "Alcabitius"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:363
+msgid "Anzeige"
+msgstr ""
+
+#: includes/time-functions.php:105
+msgid "April"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:264
+#: includes/admin/settings/register-interpretations.php:270
+#: includes/admin/settings/register-settings.php:361
+msgid "Aspekte"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:98
+msgid "Aspekte aktivieren"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:106
+msgid "Aspekte zu Planeten (und Punkten)"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:92
+msgid "Aspekteinstellungen"
+msgstr ""
+
+#: includes/astro-functions.php:91
+msgid "Aszendent"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:190
+msgid "Atlas"
+msgstr ""
+
+#: includes/admin/tools.php:33
+msgid "Aufräumen"
+msgstr ""
+
+#: includes/time-functions.php:109
+msgid "August"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:125
+#, php-format
+msgid "ayanamsa = %1$s <span class=\"zp-mobile-wrap\">(%2$s)</span>"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:367
+msgid "Berichtseinstellungen \"Nur Diagrammzeichnung\""
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:116
+msgid "Bildschirmeinstellungen"
+msgstr ""
+
+#: includes/form/validation.php:81
+msgid "Bitte gib einen Namen ein"
+msgstr ""
+
+#: includes/admin/tools.php:210 includes/admin/tools.php:277
+msgid "Bitte lade eine Datei zum Importieren hoch"
+msgstr ""
+
+#: includes/admin/tools.php:201 includes/admin/tools.php:268
+msgid "Bitte lade eine gültige .json-Datei hoch"
+msgstr ""
+
+#: includes/admin/tools.php:205
+msgid "Bitte lade eine gültige ZodiacPress zp-settings-export-Datei hoch"
+msgstr ""
+
+#: includes/admin/tools.php:272
+msgid "Bitte lade eine gültige ZodiacPress-Interpretationsdatei hoch"
+msgstr ""
+
+#: includes/form/validation.php:27
+msgid "Bitte wähle ein Geburtsdatum"
+msgstr ""
+
+#: includes/form/validation.php:69
+msgid "Bitte wähle eine Geburtsstadt"
+msgstr ""
+
+#: includes/form/validation.php:51
+msgid "Bitte wähle eine Geburtszeit"
+msgstr ""
+
+#: includes/form/validation.php:53
+msgid ""
+"Bitte wähle eine Geburtszeit oder aktiviere das Kontrollkästchen für "
+"unbekannte Zeit"
+msgstr ""
+
+#: includes/astro-functions.php:480
+msgid "Campanus"
+msgstr ""
+
+#: includes/astro-functions.php:66
+msgid "Chiron"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:548
+msgid "Closing"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:210
+msgid "Daten bei der Deinstallation entfernen"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:197
+#, php-format
+msgid ""
+"Dein Benutzername von GeoNames.org wird benötigt, um Zeitzoneninformationen "
+"von ihrem Webservice zu erhalten. (%1$sKostenlosen Account erstellen%2$s)"
+msgstr ""
+
+#: includes/admin/admin-functions.php:61
+#, php-format
+msgid ""
+"Dein Server hat ZodiacPress nicht erlaubt, die erforderlichen "
+"Dateiberechtigungen für die Ephemeride festzulegen. ZodiacPress benötigt "
+"dies, um Astrologieberichte zu erstellen. <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener\">Siehe dies</a>, um das Problem zu beheben."
+msgstr ""
+
+#: includes/admin/admin-functions.php:49
+#, php-format
+msgid ""
+"Dein Webseiten-Server verwendet Windows-Hosting. Damit ZodiacPress auf "
+"Deinem Server funktioniert, benötigst Du das Plugin %1$sZP Windows "
+"Server%2$s. Siehe <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">"
+"hier</a> für Details."
+msgstr ""
+
+#: includes/admin/admin-functions.php:29
+msgid "Deine ZodiacPress-Einstellungen wurden importiert."
+msgstr ""
+
+#: includes/admin/admin-functions.php:32
+msgid "Deine ZodiacPress-Interpretationen wurden importiert."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:204
+msgid "Deinstallieren"
+msgstr ""
+
+#: includes/form/validation.php:100
+msgid ""
+"Der UTC-Zeitversatz muss eine Zahl sein (wie 5). Füge bei Bedarf ein "
+"negatives Vorzeichen oder einen Dezimalpunkt ein (z.B. -9.5). Wenn der "
+"Offset automatisch berechnet werden soll, wähle die Geburtsstadt erneut aus "
+"und klicke auf Weiter."
+msgstr ""
+
+#. Author of the plugin
+msgid "DerN3rd"
+msgstr ""
+
+#: includes/time-functions.php:113
+msgid "Dezember"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:133
+#, php-format
+msgid "Diagrammdaten für %s"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:122
+msgid "Diagrammrad zum Natal-Bericht hinzufügen"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:432
+#, php-format
+msgid "Die für die Einstellung %s verwendete Rückruffunktion fehlt."
+msgstr ""
+
+#: includes/admin/admin-functions.php:43
+msgid ""
+"Die PHP exec () Funktion ist auf Deinem Server deaktiviert. ZodiacPress "
+"benötigt die Funktion exec (), um Astrologieberichte zu erstellen. Bitte "
+"Deinen Webhost, die Funktion PHP exec () zu aktivieren."
+msgstr ""
+
+#: includes/chart-drawing.php:123
+msgid ""
+"Diese Einstellungen gelten für den Bericht \"Nur eine Diagrammzeichnung\""
+msgstr ""
+
+#: includes/form/template.php:19
+msgid ""
+"Dieses Formular erfordert JavaScript. Dein Browser unterstützt entweder kein "
+"JavaScript oder hat es deaktiviert."
+msgstr ""
+
+#: includes/admin/admin-functions.php:167
+msgid "Dokumentation"
+msgstr ""
+
+#: includes/misc-functions.php:13
+msgid "Dritten"
+msgstr ""
+
+#: includes/admin/views/html-notice-install.php:10
+msgid "Du bist fast bereit, Berichte zu erstellen."
+msgstr ""
+
+#: includes/admin/admin-functions.php:71
+#, php-format
+msgid ""
+"Du vermisst eine Datei von ZodiacPress. Diese Datei wird benötigt, um "
+"Astrologieberichte zu erstellen. <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener\">Siehe dies</a>, um das Problem zu beheben."
+msgstr ""
+
+#: includes/admin/admin-pages.php:11
+msgid "Einstellungen"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:278
+msgid "Einstellungen aktualisiert."
+msgstr ""
+
+#: includes/misc-functions.php:21
+msgid "Elften"
+msgstr ""
+
+#: includes/class-zp-customize.php:46
+msgid "Erdzeichenfarbe"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:179
+msgid ""
+"Ermögliche Personen mit unbekannten Geburtszeiten, eine Diagrammradzeichnung "
+"zu erhalten. Ihr Diagramm wird für 12:00 Uhr gezeichnet. In ihrer Karte "
+"werden Mond, Aszendent, Midheaven, Teil von Fortune und Vertex weggelassen."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:164
+msgid ""
+"Ermögliche Personen mit unbekannten Geburtszeiten, einen Geburtsbericht zu "
+"erstellen. Wenn diese Option aktiviert ist, können sie einen Basisbericht "
+"erstellen, der Elemente ausschließt, für die eine Geburtszeit erforderlich "
+"ist (d.H. Häuser, Mond, Aszendent, Midheaven, Vertex und Teil des Glücks)."
+msgstr ""
+
+#: includes/misc-functions.php:11
+msgid "Ersten"
+msgstr ""
+
+#: includes/admin/tools.php:130 includes/admin/tools.php:136
+msgid "Exporteinstellungen"
+msgstr ""
+
+#: includes/admin/tools.php:101
+msgid ""
+"Exportiere Deine ZodiacPress-Interpretationen für diese Seite als .json-"
+"Datei. Auf diese Weise kannst Du Deine Interpretationen einfach in eine "
+"andere Seite importieren."
+msgstr ""
+
+#: includes/admin/tools.php:131
+msgid ""
+"Exportiere die ZodiacPress-Einstellungen für diese Seite als JSON-Datei. Auf "
+"diese Weise kannst Du die Konfiguration einfach in eine andere Seite "
+"importieren."
+msgstr ""
+
+#: includes/admin/tools.php:34
+msgid "Exportieren/Importieren"
+msgstr ""
+
+#: includes/astro-functions.php:501
+msgid "Fagan/Bradley"
+msgstr ""
+
+#: includes/time-functions.php:103
+msgid "Februar"
+msgstr ""
+
+#: includes/admin/admin-functions.php:163
+msgid "Feedback"
+msgstr ""
+
+#: includes/admin/tools.php:201 includes/admin/tools.php:205
+#: includes/admin/tools.php:210 includes/admin/tools.php:268
+#: includes/admin/tools.php:272 includes/admin/tools.php:277
+msgid "Fehler"
+msgstr ""
+
+#: includes/class-zp-customize.php:44
+msgid "Feuerzeichen Farbe"
+msgstr ""
+
+#: includes/astro-functions.php:181
+msgid "Fische"
+msgstr ""
+
+#: includes/misc-functions.php:15
+msgid "Fünften"
+msgstr ""
+
+#: includes/form/template.php:75
+msgid "Für diese Art von Bericht ist eine Geburtszeit erforderlich."
+msgstr ""
+
+#: includes/astro-functions.php:490
+msgid "Ganzes Zeichen"
+msgstr ""
+
+#: includes/admin/settings/register-interpretations.php:57
+msgid "Geburts Interpretationen"
+msgstr ""
+
+#: includes/admin/tools.php:60
+msgid "Geburtsaspekte"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:134
+msgid "Geburtsbericht Intro"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:327
+msgid "Geburtsberichts"
+msgstr ""
+
+#: includes/form/template.php:34
+msgid "Geburtsdatum"
+msgstr ""
+
+#: includes/form/validation.php:30
+msgid "Geburtsdatum ist nicht gültig"
+msgstr ""
+
+#: includes/form/template.php:46
+msgid "Geburtsjahr"
+msgstr ""
+
+#: includes/form/template.php:56
+msgid "Geburtsminute"
+msgstr ""
+
+#: includes/form/template-functions.php:95
+msgid "Geburtsmonat"
+msgstr ""
+
+#: includes/admin/tools.php:56
+msgid "Geburtsplaneten in Häusern"
+msgstr ""
+
+#: includes/admin/tools.php:52
+msgid "Geburtsplaneten in Zeichen"
+msgstr ""
+
+#: includes/form/template.php:83
+msgid "Geburtsstadt"
+msgstr ""
+
+#: includes/form/template.php:53
+msgid "Geburtsstunde"
+msgstr ""
+
+#: includes/form/template-functions.php:105
+msgid "Geburtstag"
+msgstr ""
+
+#: includes/admin/views/html-notice-install.php:11
+msgid "Gehe zum Setup"
+msgstr ""
+
+#: includes/form/template.php:51
+msgid "Genaue Geburtszeit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Generiere astrologische Geburtsberichte mit Deinen benutzerdefinierten "
+"Interpretationen."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:196
+msgid "GeoNames Benutzername"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:485
+#: includes/class-zp-birth-report.php:500
+#: includes/admin/settings/register-settings.php:362
+msgid "Gestirn"
+msgstr ""
+
+#: includes/astro-functions.php:481
+msgid "Gleich"
+msgstr ""
+
+#: includes/class-zp-customize.php:30
+msgid "Grad Farbe"
+msgstr ""
+
+#: includes/class-zp-customize.php:38
+msgid "Harte Aspektfarbe"
+msgstr ""
+
+#: includes/class-zp-customize.php:28
+msgid "Haus Nummer Farbe"
+msgstr ""
+
+#: includes/astro-functions.php:96
+msgid "Himmelsmitte"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:202
+#, php-format
+msgid ""
+"HINWEIS: %1$s haben die Zeichen am Tag Deiner Geburt geändert. Es wurde von "
+"%2$s auf %3$s verschoben. Daher benötigst Du Deinen genauen Geburtszeitpunkt,"
+" um zu wissen, in welchem dieser beiden Zeichen sich Deine %1$s befinden."
+msgstr ""
+
+#: includes/class-zp-birth-report.php:236
+#, php-format
+msgid ""
+"HINWEIS: Da %s sehr nahe an der nächsten Hausspitze liegt, ist auch das "
+"nächste Element relevant."
+msgstr ""
+
+#: includes/admin/tools.php:115
+msgid ""
+"HINWEIS: IMPORTIERTE AUSLEGUNGEN ÜBERSCHREIBEN JEGLICHE AKTUELLE BESTIMMTE "
+"AUSLEGUNGEN AUF DIESER WEBSITE VOLLSTÄNDIG. BESTEHENDE INTERPRETATIONEN AUF "
+"DIESER WEBSEITE WERDEN GELÖSCHT."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://isabelcastillo.com/free-plugins/zodiacpress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://n3rds.work"
+msgstr ""
+
+#: includes/chart-drawing.php:9
+msgid "Hypothetische Zeit:"
+msgstr ""
+
+#: includes/class-zp-customize.php:20
+msgid "Häuser Randfarbe"
+msgstr ""
+
+#: includes/class-zp-customize.php:22
+msgid "Häuser Teiler Farbe"
+msgstr ""
+
+#: includes/admin/tools.php:143 includes/admin/tools.php:152
+msgid "Importeinstellungen"
+msgstr ""
+
+#: includes/admin/tools.php:114
+msgid ""
+"Importiere Deine ZodiacPress-Interpretationen aus einer .json-Datei. Diese "
+"Datei erhältst Du, indem Du die Interpretationen über die Schaltfläche oben "
+"auf eine andere Seite exportierst."
+msgstr ""
+
+#: includes/admin/tools.php:144
+msgid ""
+"Importiere die ZodiacPress-Einstellungen aus einer .json-Datei. Diese Datei "
+"erhältst Du, indem Du die Einstellungen über die Schaltfläche oben auf einee "
+"anderen Seite exportierst."
+msgstr ""
+
+#: includes/admin/settings/register-interpretations.php:269
+msgid "In Häusern"
+msgstr ""
+
+#: includes/admin/settings/register-interpretations.php:268
+msgid "In Zeichen"
+msgstr ""
+
+#: includes/class-zp-customize.php:34
+msgid "Innenradfarbe"
+msgstr ""
+
+#: includes/class-zp-customize.php:36
+msgid "Innenradrandfarbe"
+msgstr ""
+
+#: includes/admin/settings/register-interpretations.php:262
+msgid "Interpretationen aktualisiert."
+msgstr ""
+
+#: includes/admin/tools.php:100 includes/admin/tools.php:106
+msgid "Interpretationen exportieren"
+msgstr ""
+
+#: includes/admin/settings/register-interpretations.php:54
+#, php-format
+msgid "Interpretationen für Aspekte von Geburt %1$s"
+msgstr ""
+
+#: includes/admin/settings/register-interpretations.php:51
+#, php-format
+msgid "Interpretationen für Geburt %1$s in den Häusern"
+msgstr ""
+
+#: includes/admin/settings/register-interpretations.php:48
+#, php-format
+msgid "Interpretationen für Geburt %1$s in den Zeichen"
+msgstr ""
+
+#: includes/admin/admin-functions.php:26
+msgid "Interpretationen für Geburtsaspekte wurden gelöscht."
+msgstr ""
+
+#: includes/admin/admin-functions.php:23
+msgid "Interpretationen für Geburtsplaneten in Häusern wurden gelöscht."
+msgstr ""
+
+#: includes/admin/admin-functions.php:20
+msgid "Interpretationen für Geburtsplaneten in Zeichen wurden gelöscht."
+msgstr ""
+
+#: includes/admin/tools.php:113 includes/admin/tools.php:123
+msgid "Interpretationen importieren"
+msgstr ""
+
+#: includes/admin/tools.php:73
+msgid "Interpretationen löschen"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:537
+msgid "Introduction"
+msgstr ""
+
+#: includes/form/template-functions.php:45
+msgid "Jahr"
+msgstr ""
+
+#: includes/time-functions.php:108
+msgid "Juli"
+msgstr ""
+
+#: includes/astro-functions.php:163
+msgid "Jungfrau"
+msgstr ""
+
+#: includes/time-functions.php:107
+msgid "Juni"
+msgstr ""
+
+#: includes/astro-functions.php:41
+msgid "Jupiter"
+msgstr ""
+
+#: includes/time-functions.php:102
+msgid "Jänner"
+msgstr ""
+
+#: includes/class-zp-customize.php:42
+msgid "Kleinere Aspektfarbe"
+msgstr ""
+
+#: includes/astro-functions.php:482
+msgid "Koch"
+msgstr ""
+
+#: includes/astro-functions.php:157
+msgid "Krebs"
+msgstr ""
+
+#: includes/astro-functions.php:507
+msgid "Krishnamurti"
+msgstr ""
+
+#: includes/astro-functions.php:503
+msgid "Lahiri"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:146
+msgid "Leere Titel ausblenden"
+msgstr ""
+
+#: includes/class-zp-customize.php:48
+msgid "Luftzeichenfarbe"
+msgstr ""
+
+#: includes/admin/tools.php:61
+msgid "Lösche alle Interpretationstexte für Geburtsaspekte."
+msgstr ""
+
+#: includes/admin/tools.php:57
+msgid ""
+"Lösche alle Interpretationstexte für Geburtsplaneten/-punkte in den Häusern."
+msgstr ""
+
+#: includes/admin/tools.php:53
+msgid ""
+"Lösche alle Interpretationstexte für Geburtsplaneten/-punkte in den Zeichen."
+msgstr ""
+
+#: includes/admin/tools.php:80
+msgid "Löschen"
+msgstr ""
+
+#: includes/astro-functions.php:160
+msgid "Löwe"
+msgstr ""
+
+#: includes/time-functions.php:106
+msgid "Mai"
+msgstr ""
+
+#: includes/astro-functions.php:36
+msgid "Mars"
+msgstr ""
+
+#: includes/astro-functions.php:483
+msgid "Meridian"
+msgstr ""
+
+#: includes/astro-functions.php:26
+msgid "Merkur"
+msgstr ""
+
+#: includes/form/template-functions.php:82
+msgid "Minute"
+msgstr ""
+
+#: includes/form/template-functions.php:19
+msgid "Monat"
+msgstr ""
+
+#: includes/astro-functions.php:21
+msgid "Mond"
+msgstr ""
+
+#: includes/astro-functions.php:484
+msgid "Morinus"
+msgstr ""
+
+#: includes/time-functions.php:104
+msgid "März"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:124
+msgid "Möchtest Du die Diagrammzeichnung zum Geburtsbericht hinzufügen?"
+msgstr ""
+
+#: includes/form/template-functions.php:9
+msgid "Name"
+msgstr ""
+
+#: includes/astro-functions.php:56
+msgid "Neptun"
+msgstr ""
+
+#: includes/misc-functions.php:19
+msgid "Neunten"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:126
+msgid "nicht hinzufügen"
+msgstr ""
+
+#: includes/astro-functions.php:76
+msgid "Nordknoten"
+msgstr ""
+
+#: includes/time-functions.php:112
+msgid "November"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:328
+msgid "Nur Diagrammzeichnungsbericht"
+msgstr ""
+
+#: includes/time-functions.php:111
+msgid "Oktober"
+msgstr ""
+
+#: includes/astro-functions.php:139
+msgid "Opposition"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:136
+msgid "Optionaler \"Einführungstext\" für den Geburtsbericht."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:142
+msgid ""
+"Optionaler \"Schließen\"-Text für den Geburtsbericht. Dies wird am Ende des "
+"Berichts angezeigt."
+msgstr ""
+
+#: includes/astro-functions.php:485
+msgid "Placidus"
+msgstr ""
+
+#: includes/class-zp-customize.php:26
+msgid "Planet Glyph Farbe"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:360
+msgid "Planeten und Punkte"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:261
+msgid "Planeten und Punkte in den Häusern"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:258
+msgid "Planeten und Punkte in den Zeichen"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:68
+msgid "Planeten- und Punkteinstellungen"
+msgstr ""
+
+#: includes/astro-functions.php:61
+msgid "Pluto"
+msgstr ""
+
+#: includes/astro-functions.php:486
+msgid "Porphyr"
+msgstr ""
+
+#: includes/astro-functions.php:127
+msgid "Quadrat"
+msgstr ""
+
+#: includes/astro-functions.php:135
+msgid "Quincunx"
+msgstr ""
+
+#: includes/class-zp-customize.php:18
+msgid "Rad Hintergrundfarbe"
+msgstr ""
+
+#: includes/astro-functions.php:505
+msgid "Raman"
+msgstr ""
+
+#: includes/astro-functions.php:487
+msgid "Regiomontanus"
+msgstr ""
+
+#: includes/astro-functions.php:46
+msgid "Saturn"
+msgstr ""
+
+#: includes/astro-functions.php:86
+msgid "Scheitel"
+msgstr ""
+
+#: includes/astro-functions.php:71
+msgid "Schwarzer Mond Lilith"
+msgstr ""
+
+#: includes/astro-functions.php:172
+msgid "Schütze"
+msgstr ""
+
+#: includes/misc-functions.php:16
+msgid "Sechsten"
+msgstr ""
+
+#: includes/time-functions.php:110
+msgid "September"
+msgstr ""
+
+#: includes/admin/views/html-notice-install.php:11
+msgid "Setup überspringen"
+msgstr ""
+
+#: includes/astro-functions.php:123
+msgid "Sextil"
+msgstr ""
+
+#: includes/misc-functions.php:17
+msgid "Siebten"
+msgstr ""
+
+#: includes/astro-functions.php:169
+msgid "Skorpion"
+msgstr ""
+
+#: includes/ajax-functions.php:36
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/astro-functions.php:16
+msgid "Sonne"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:370
+msgid "Sonstige Einstellungen"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:329
+msgid "Sonstiges"
+msgstr ""
+
+#: includes/astro-functions.php:175
+msgid "Steinbock"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:477
+msgid ""
+"Stelle für jeden Aspekt das Gestirn ein, die für jeden Planeten verwendet "
+"werden soll. Wenn leer, wird die Standardeinstellung (8) verwendet."
+msgstr ""
+
+#: includes/class-zp-birth-report.php:120
+msgid "Sternzeichen,"
+msgstr ""
+
+#: includes/astro-functions.php:151
+msgid "Stier"
+msgstr ""
+
+#: includes/form/template-functions.php:67
+msgid "Stunde"
+msgstr ""
+
+#: includes/form/template-functions.php:33
+msgid "Tag"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:364
+msgid "Technisch"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:156
+msgid "Technische Einstellungen"
+msgstr ""
+
+#: includes/astro-functions.php:81
+msgid "Teil des Glücks"
+msgstr ""
+
+#: includes/time-functions.php:46
+#, php-format
+msgctxt "time meridiem"
+msgid "%s am"
+msgstr ""
+
+#: includes/time-functions.php:55
+#, php-format
+msgctxt "time meridiem"
+msgid "%s pm"
+msgstr ""
+
+#: includes/time-functions.php:42
+#, php-format
+msgctxt "time meridiem midnight"
+msgid "%s am, midn"
+msgstr ""
+
+#: includes/time-functions.php:50
+#, php-format
+msgctxt "time meridiem noon"
+msgid "%s pm, noon"
+msgstr ""
+
+#: includes/form/template.php:112
+msgid ""
+"Tipp: Stelle sicher, dass der <strong>UTC-Zeitversatz</strong> korrekt ist. "
+"Wenn es falsch ist, kannst Du es ändern."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:148
+msgid "Titel für Stücke ausblenden, die keinen Interpretationstext enthalten."
+msgstr ""
+
+#: includes/astro-functions.php:488
+msgid "Topozentrisch"
+msgstr ""
+
+#: includes/astro-functions.php:131
+msgid "Trigon"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:118
+msgid "Tropischer Tierkreis"
+msgstr ""
+
+#: includes/form/template.php:65
+msgid "Unbekannte Geburtszeit"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:72
+msgid "unbekannte Geburtszeit"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:162
+#: includes/admin/settings/register-settings.php:176
+msgid "Unbekannte Geburtszeit zulassen"
+msgstr ""
+
+#: includes/astro-functions.php:51
+msgid "Uranus"
+msgstr ""
+
+#: includes/form/template.php:92
+msgid "UTC-Zeitversatz"
+msgstr ""
+
+#: includes/form/template.php:94
+msgid "UTC-Zeitversatz:"
+msgstr ""
+
+#: includes/astro-functions.php:489
+msgid "Vehlow"
+msgstr ""
+
+#: includes/astro-functions.php:31
+msgid "Venus"
+msgstr ""
+
+#: includes/astro-functions.php:119
+msgid "Verbindung"
+msgstr ""
+
+#: includes/admin/tools.php:74
+msgid ""
+"Verwende diese Tools, um Deinen Interpretationstext <strong>"
+"dauerhaft</strong> zu löschen. Beachte dass durch Klicken auf diese "
+"Schaltflächen Ihre Interpretationen <strong>dauerhaft</strong> gelöscht "
+"werden."
+msgstr ""
+
+#: includes/misc-functions.php:14
+msgid "Vierten"
+msgstr ""
+
+#: includes/shortcode.php:35
+msgid "Von vorn anfangen"
+msgstr ""
+
+#: includes/class-zp-customize.php:94
+msgid "Vorschau der ZP-Diagrammzeichnung"
+msgstr ""
+
+#: includes/astro-functions.php:166
+msgid "Waage"
+msgstr ""
+
+#: includes/astro-functions.php:178
+msgid "Wassermann"
+msgstr ""
+
+#: includes/class-zp-customize.php:50
+msgid "Wasserzeichenfarbe"
+msgstr ""
+
+#: includes/class-zp-customize.php:40
+msgid "Weiche Aspektfarbe"
+msgstr ""
+
+#: includes/class-zp-birth-report.php:140
+msgid "Weltzeit:"
+msgstr ""
+
+#: includes/form/template.php:66
+msgid "Wenn die Geburtszeit unbekannt ist, aktiviere dieses Kontrollkästchen."
+msgstr ""
+
+#: includes/admin/admin-pages.php:9
+msgid "Werkzeuge"
+msgstr ""
+
+#: includes/astro-functions.php:148
+msgid "Widder"
+msgstr ""
+
+#: includes/admin/views/html-notice-install.php:9
+msgid "Willkommen bei ZodiacPress"
+msgstr ""
+
+#: includes/class-zp-customize.php:24
+msgid "Winkel Pfeilfarbe"
+msgstr ""
+
+#: includes/class-zp-customize.php:32
+msgid "Winkelgrad Farbe"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:107
+msgid "Wähle aus, für welche Planeten/Punkte Aspekte berechnet werden sollen."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:99
+msgid "Wähle aus, welche Aspekte im Bericht angezeigt werden sollen."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:83
+msgid ""
+"Wähle aus, welche im Abschnitt \"In den Häusern\" des Berichts angezeigt "
+"werden sollen."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:75
+msgid ""
+"Wähle aus, welche im Abschnitt \"In den Schildern\" des Berichts angezeigt "
+"werden sollen."
+msgstr ""
+
+#: includes/form/validation.php:62
+msgid "Wähle eine Geburtsminute zwischen 0 und 59."
+msgstr ""
+
+#: includes/form/validation.php:59
+msgid "Wähle eine gültige Geburtsstunde."
+msgstr ""
+
+#: includes/misc-functions.php:20
+msgid "Zehnten"
+msgstr ""
+
+#: includes/class-zp-customize.php:12
+msgid "Zeichen Rad Hintergrundfarbe"
+msgstr ""
+
+#: includes/class-zp-customize.php:16
+msgid "Zeichen Randfarbe"
+msgstr ""
+
+#: includes/class-zp-customize.php:14
+msgid "Zeichen Teiler Farbe"
+msgstr ""
+
+#: includes/misc-functions.php:10
+msgid "Zero"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/admin-pages.php:7
+#: includes/admin/settings/display-interpretations.php:24
+msgid "ZodiacPress"
+msgstr ""
+
+#: includes/admin/admin-pages.php:11
+msgid "ZodiacPress Einstellungen"
+msgstr ""
+
+#: includes/admin/admin-pages.php:9
+msgid "ZodiacPress Werkzeuge"
+msgstr ""
+
+#: includes/class-zp-customize.php:61
+msgid "ZodiacPress-Diagrammzeichnung"
+msgstr ""
+
+#: includes/admin/admin-functions.php:159
+msgid "ZodiacPress-Erweiterungen"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:128
+msgid "Zum Anfang des Berichts hinzufügen"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:127
+msgid "Zum Ende des Berichts hinzufügen"
+msgstr ""
+
+#: includes/misc-functions.php:12
+msgid "Zweiten"
+msgstr ""
+
+#: includes/astro-functions.php:154
+msgid "Zwillinge"
+msgstr ""
+
+#: includes/misc-functions.php:22
+msgid "Zwölften"
+msgstr ""
+
+#: includes/class-zp-customize.php:10
+msgid "Äußere Hintergrundfarbe"
+msgstr ""
+
+#: includes/form/template.php:110
+msgid "Übermitteln"
+msgstr ""
